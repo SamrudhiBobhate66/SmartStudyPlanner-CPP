@@ -8,4 +8,4 @@ Mark tasks as completed,
 Manage task priorities,
 Generate reports
 
-This project was developed as part of my C++ learning and practice.
+This project is developed as part of my C++ learning and practice.
